@@ -4,7 +4,7 @@
      "export":
         {
          "format":"json",
-         "target":"main3.json"
+         "target":"main.json"
         }
     },
  "height":127,
@@ -73,7 +73,7 @@
                 {
                  "name":"exitUrl",
                  "type":"string",
-                 "value":"{<lobby>\/software.json#start_nullmuseum}\n"
+                 "value":"{<lobby>\/software.json#start_nullmuseum}"
                 }],
          "type":"tilelayer",
          "visible":true,
